@@ -1,0 +1,36 @@
+# Site settings
+title: FreeCodeCamp Portfolio for JustOpie
+url: justopie.github.io/fcc
+
+# Contact settings
+# - Options
+# --- static : stand alone contact form
+# --- disqus : replace contact form with disqus thread
+# - Replace the line below with one of the options above
+contact: static
+
+# Disqus settings
+# If disqus is used, provide the disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+# disqus_shortname: myshortname
+
+# Footer settings
+footer:
+  copyright: Richard Lawrence
+  start: 2016
+
+# Social settings
+social:
+  - title: twitter
+    url: http://twitter.com/justopie
+  - title: FreeCodeCamp
+    url: https://www.freecodecamp.com/justopie
+
+# Author settings
+author:
+ - name: Richard Lawrence
+ - email: justopie (at) gmail (dot) com
+ 
+# Build settings
+markdown: kramdown
+permalink: pretty
