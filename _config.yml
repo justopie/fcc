@@ -1,6 +1,7 @@
 # Site settings
 title: FreeCodeCamp Portfolio for JustOpie
 url: //justopie.github.io/fcc
+description: A work in progress?
 
 # Contact settings
 # - Options
@@ -34,3 +35,10 @@ author:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Color settings
+color:
+  primary: 333e4b #18bc9c #80B3FF
+  primary-rgb: "51,62,75" #"24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
